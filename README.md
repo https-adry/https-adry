@@ -1,9 +1,45 @@
-- 👋 Hi, I’m @https-adry, an eighteen years old girl
-- 🌱 I’m currently learning informatic engeneering
-- 📫 How to reach me adrianapalmesespam556@gmail.com
-- 😄 Pronouns: she / her
+# Adriana 🌟
 
-<!---
-https-adry/https-adry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ciao! Sono Adriana, una studentessa di **Ingegneria Informatica** presso l'Università degli Studi *"Federico II"* di Napoli. 🎓  
+Sono appassionata di tecnologia, programmazione e sempre pronta a imparare qualcosa di nuovo. 🧑‍💻
+
+---
+
+## 👩‍💻 Attualmente sto lavorando su:
+
+- Progetti in **Python**, specialmente nel campo del riconoscimento facciale.
+- Preparazione per esami universitari.
+
+---
+
+## 📚 Competenze:
+
+- **Linguaggi di programmazione**: Python, C, C++ 
+- **Strumenti**: VS Code, Git  
+- **Altre conoscenze**: Matematica e Fisica applicata
+
+---
+
+## 💡 Interessi:
+
+- Intelligenza artificiale 🤖  
+- Sviluppo di progetti che combinano **software** e **hardware**.  
+- Fitness e palestra 🏋️‍♀️!  
+
+---
+
+## 🌱 Voglio imparare:
+
+- **Sviluppo Web** (front-end/back-end).  
+- Machine Learning e Data Science.  
+- Applicazioni pratiche di IoT.
+
+---
+
+## 📬 Contatti:
+
+- **Email**: adrianapalmesespam556@gmail.com  
+
+---
+
+> **- This time I'm ready to run, escape from the city and follow the sud!**
