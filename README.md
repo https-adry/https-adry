@@ -24,7 +24,8 @@ Sono appassionata di tecnologia, programmazione e sempre pronta a imparare qualc
 
 - Intelligenza artificiale 🤖  
 - Sviluppo di progetti che combinano **software** e **hardware**.  
-- Fitness e palestra 🏋️‍♀️!  
+- Fitness e palestra 🏋️‍♀️!
+- Musica e storia dell'arte
 
 ---
 
@@ -42,4 +43,4 @@ Sono appassionata di tecnologia, programmazione e sempre pronta a imparare qualc
 
 ---
 
-> **- This time I'm ready to run, escape from the city and follow the sud!**
+> **- This time I'm ready to run, escape from the city and follow the sun!**
