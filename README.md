@@ -39,8 +39,8 @@ Sono appassionata di tecnologia, programmazione e sempre pronta a imparare qualc
 
 ## 📬 Contatti:
 
-- **Email**: adrianapalmesespam556@gmail.com  
-
+- **Email**: adrianapalmesespam556@gmail.com
+- **Email**: adriana.palmese5@gmail.com
 ---
 
 > **- This time I'm ready to run, escape from the city and follow the sun!**
